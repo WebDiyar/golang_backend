@@ -8,4 +8,10 @@
    Step 4 we go to vs code and create folders models, storage and file.env
    where we write all database details,then we create main.go file. we can start with models folder and create our books model and user model here we have both models in one file
    but we can write them separately in the storage we have postgres.go to make connection
+6. Использованные инструменты и ссылки на источники:
+   Fiber: Веб-фреймворк на языке Go для быстрого создания HTTP-серверов.(https://github.com/gofiber/fiber)
+   Gorm: ORM для языка Go, используемый для работы с базой данных.(https://gorm.io/)
+   Godotenv: Библиотека для загрузки переменных окружения из файла .env. (https://github.com/joho/godotenv)
+   Golang-Migrate: Инструмент для управления миграциями базы данных в языке Go.(https://github.com/golang-migrate/migrate)
+
         
